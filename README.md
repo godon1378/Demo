@@ -1,3 +1,3 @@
 # Demo
-Demo Project for Repository.\n
+Demo Project for Repository.
 Author - Gaurav Dharmik
